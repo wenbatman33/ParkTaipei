@@ -1,0 +1,214 @@
+@charset "utf-8";
+body {
+	background-color: #867f77;
+	margin: 0px;
+	font-family: "Times New Roman", Times, serif;
+	overflow: auto;
+	padding: 0px;
+}
+iframe {
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	text-align: center;
+}
+
+
+
+.reservations_text a {
+	text-decoration: underline;
+	color: #CC9900;
+}
+.reservations_text a:hover {
+	border: 1px dotted #a59b8c;
+}
+
+
+.copyright {
+	font-size: x-small;
+	color: #bfb6ac;
+	margin-top: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: right;
+	margin-right: 40px;
+}
+.main_text {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-top: 20px;
+	margin-left: 32px;
+	margin-right: 25px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	text-align: justifybackground-color: #867f77margin: 0pxfont-family: "Times New Roman", Times, serif;
+	text-align: left;
+}
+.main_text02 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-top: 20px;
+	margin-left: 32px;
+	margin-right: 25px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	text-align: justifybackground-color: #867f77margin: 0pxfont-family: "Times New Roman", Times, serif;
+	text-align: left;
+}
+.room_text01 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-left: 32px;
+	margin-right: 25px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	text-align: left;
+	position: absolute;
+	top: 392px;
+	left: 6px;
+	width: 251px;
+}
+.room_text02 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-left: 32px;
+	margin-right: 25px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	text-align: left;
+	position: absolute;
+	top: 413px;
+	left: 10;
+	width: 250px;
+	height: 47px;
+}
+.facilities_text01 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-top: 25px;
+	margin-left: 32px;
+	margin-right: 19px;
+	letter-spacing: 1px;
+	line-height: 1.2;
+	text-align: left;
+}
+.facilities_text02 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-left: 32px;
+	margin-right: 19px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	text-align: left;
+	position: absolute;
+	top: 200px;
+}
+.facilities_text03 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-left: 32px;
+	margin-right: 19px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	text-align: left;
+	top: 340px;
+	position: absolute;
+	width: 252px;
+}
+.facilities_text04 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-left: 190px;
+	margin-right: 19px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	text-align: left;
+	position: absolute;
+	top: 200px;
+}
+.map_text01 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-top: 25px;
+	margin-left: 32px;
+	margin-right: 19px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	text-align: left;
+	height: 200px;
+}
+.map_text02 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-left: 32px;
+	margin-right: 19px;
+	letter-spacing: 1px;
+	line-height: 2;
+	text-align: left;
+	position: absolute;
+	top: 300px;
+	z-index: 8;
+}
+.map_text02 a {
+	text-decoration: none;
+	color: #a59b8c;
+}
+.map_text02 a:hover {
+	border: 1px dotted #a59b8c;
+}
+
+
+.map_text03 {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-left: 300px;
+	margin-right: 19px;
+	letter-spacing: 1px;
+	line-height: 2;
+	text-align: left;
+	position: absolute;
+	top: 300px;
+	z-index: 9;
+}
+.map_pic {
+	position: absolute;
+	top: 0px;
+	visibility: visible;
+}
+.reservations_text {
+	font-size: 12px;
+	color: #a59b8c;
+	margin-top: 25px;
+	margin-left: 32px;
+	margin-right: 19px;
+	line-height: 1.2;
+	padding-left: 5px;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.address {
+	font-size: x-small;
+	color: #bfb6ac;
+	margin-left: 40px;
+	margin-top: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+
+.down_div {
+	background-image: url(images/down_bg.jpg);
+	width: 1018px;
+	height: 167px;
+}
+.main_div {
+	background-image: url(images/main_bg.jpg);
+	width: 1018px;
+	height: 490px;
+}
+.top_div {
+	width: 1018px;
+	height: 130px;
+}
+.main_div .map_text02 img {
+	border: 0px;
+	margin-right: 5px;
+}
